@@ -500,6 +500,10 @@ ul.navbar-nav.mr-auto {
   position: absolute;
   right: 10rem;
 }
+.blue{
+  background-color: skyblue;
+   padding-top: 0;
+    padding-bottom: 0;}
 
 
 button#scrolltopBtn {
